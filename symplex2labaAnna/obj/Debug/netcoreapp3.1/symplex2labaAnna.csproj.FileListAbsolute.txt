@@ -1,0 +1,13 @@
+C:\Users\Anya\Desktop\symplex2labaAnna\bin\Debug\netcoreapp3.1\symplex2labaAnna.exe
+C:\Users\Anya\Desktop\symplex2labaAnna\bin\Debug\netcoreapp3.1\symplex2labaAnna.deps.json
+C:\Users\Anya\Desktop\symplex2labaAnna\bin\Debug\netcoreapp3.1\symplex2labaAnna.runtimeconfig.json
+C:\Users\Anya\Desktop\symplex2labaAnna\bin\Debug\netcoreapp3.1\symplex2labaAnna.runtimeconfig.dev.json
+C:\Users\Anya\Desktop\symplex2labaAnna\bin\Debug\netcoreapp3.1\symplex2labaAnna.dll
+C:\Users\Anya\Desktop\symplex2labaAnna\bin\Debug\netcoreapp3.1\symplex2labaAnna.pdb
+C:\Users\Anya\Desktop\symplex2labaAnna\obj\Debug\netcoreapp3.1\symplex2labaAnna.csprojAssemblyReference.cache
+C:\Users\Anya\Desktop\symplex2labaAnna\obj\Debug\netcoreapp3.1\symplex2labaAnna.AssemblyInfoInputs.cache
+C:\Users\Anya\Desktop\symplex2labaAnna\obj\Debug\netcoreapp3.1\symplex2labaAnna.AssemblyInfo.cs
+C:\Users\Anya\Desktop\symplex2labaAnna\obj\Debug\netcoreapp3.1\symplex2labaAnna.csproj.CoreCompileInputs.cache
+C:\Users\Anya\Desktop\symplex2labaAnna\obj\Debug\netcoreapp3.1\symplex2labaAnna.dll
+C:\Users\Anya\Desktop\symplex2labaAnna\obj\Debug\netcoreapp3.1\symplex2labaAnna.pdb
+C:\Users\Anya\Desktop\symplex2labaAnna\obj\Debug\netcoreapp3.1\symplex2labaAnna.genruntimeconfig.cache
